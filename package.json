@@ -1,0 +1,19 @@
+{
+  "name": "arriendo",
+  "version": "1.0.0",
+  "description": "modulo de arriendo de bicicletas",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "electron-context-menu": "^0.9.1"
+  }
+}
